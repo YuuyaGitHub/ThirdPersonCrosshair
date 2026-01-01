@@ -1,0 +1,15 @@
+﻿[
+  {
+    "modid": "tpc",
+    "name": "ThirdPersonCrosshair",
+    "description": "Always show crosshair even in third-person view.",
+    "version": "1.0",
+    "mcversion": "1.12.2",
+    "authorList": ["Yuuya"],
+    "url": "https://github.com/YuuyaGitHub/ThirdPersonCrosshair",
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
